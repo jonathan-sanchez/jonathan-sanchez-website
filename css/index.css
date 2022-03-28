@@ -9,3 +9,7 @@
 
     filter: progid: DXImageTransform.Microsoft.gradient( startColorstr="#638FB1", endColorstr="#1E3465", GradientType=1 );
 }
+
+.container {
+    border-color: green
+}
