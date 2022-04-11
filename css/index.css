@@ -20,7 +20,7 @@ filter: progid: DXImageTransform.Microsoft.gradient( startColorstr="#396EEC", en
 }
 
 .card {
-
+    border: 2px solid red;
 }
 
 /* .flex-container > div {
@@ -37,6 +37,3 @@ filter: progid: DXImageTransform.Microsoft.gradient( startColorstr="#396EEC", en
     padding-bottom: 10px;
 }
 
-#introCard {
-
-}
